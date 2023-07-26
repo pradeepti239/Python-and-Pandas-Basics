@@ -1,2 +1,2 @@
-# Python-and-Pandas-Basics
-Exercises and data preprocessing tasks in Python using Pandas
+# Python and Pandas Basics
+Exercises and Data Preprocessing tasks in Python using Pandas
